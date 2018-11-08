@@ -1,0 +1,10 @@
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocumentProcessor.csproj.CoreCompileInputs.cache
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocumentProcessor.AssemblyInfoInputs.cache
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocumentProcessor.AssemblyInfo.cs
+C:\Edu\sortSpoke\WebApi01\DocProcessor\bin\Debug\netcoreapp2.1\DocumentProcessor.deps.json
+C:\Edu\sortSpoke\WebApi01\DocProcessor\bin\Debug\netcoreapp2.1\DocumentProcessor.dll
+C:\Edu\sortSpoke\WebApi01\DocProcessor\bin\Debug\netcoreapp2.1\DocumentProcessor.pdb
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocumentProcessor.dll
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocumentProcessor.pdb
+C:\Edu\sortSpoke\WebApi01\DocProcessor\bin\Debug\netcoreapp2.1\log4net.config
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocumentProcessor.csprojAssemblyReference.cache

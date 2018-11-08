@@ -1,0 +1,3 @@
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocProcessor.csproj.CoreCompileInputs.cache
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocProcessor.AssemblyInfoInputs.cache
+C:\Edu\sortSpoke\WebApi01\DocProcessor\obj\Debug\netcoreapp2.1\DocProcessor.AssemblyInfo.cs
